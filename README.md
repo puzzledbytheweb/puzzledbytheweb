@@ -1,3 +1,4 @@
 ## WORK IN PROGRESS :beers: :tractor: :rocket:
-- 🔭 I’m currently working at https://github.com/ovotech and https://github.com/reach4help
-- SPORTING!!! 💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
+- Co-founder and ex Core Lead @ [Reach4Help]([url](https://github.com/reach4help))
+- Software Engineer @ [Kaluza]([url](https://github.com/kaluza-platform))
+- Sporting CP 🦁
